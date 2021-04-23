@@ -1,0 +1,67 @@
+a.кнопка {
+    дисплей: встроенный блок;
+    предыстория: #2196f3;
+    цвет: #fff;
+    прокладка: 12px;
+    радиус границы: 3px;
+    текстовое оформление: нет;
+    семейство шрифтов: Tahoma;
+    размер шрифта: 30пикселей;
+    высота линии: 1;
+    шрифт-вес: 100;
+}
+#боковая панель {
+      маржа: 24px;
+      выравнивание текста: слева;
+}
+   тело {
+    шрифт: 10pt Arial, Helvetica, sans-serif; 
+    предыстория: #fff; 
+    маржа: 0;
+    цвет фона: rgb(39, 39, 39); 
+   }
+   h2 {
+    размер шрифта: 1.1em; 
+    цвет: #752641; 
+    маржа-дно: 0; 
+   }
+   #контейнер {
+    ширина: 1600px;
+    margin: 0 auto; 
+    position: relative;
+   }
+   #header {
+    background: #808080;
+    font-size: 24pt; 
+    font-weight: bold; 
+    color: #FF0000 ; 
+    padding: 30px; 
+   }
+   #content {
+    font-size: 25px;
+    margin-right: 400px; 
+    padding: 10px; 
+    border-right: 1px dashed #183533;
+    background: url(14.gif);
+    background-position: center; 
+
+   }
+   #content p {
+    margin-top: 0.3em 
+   }
+   #sidebar {
+    font-size: 40px;
+    position: absolute; 
+    right: 0; 
+    top: 60px; 
+    width: 300px; 
+
+   }
+   #footer {
+    background: #808080;
+    color: #fff; 
+    padding: 25px;
+   }
+   p {
+       color: #fff;
+   }
